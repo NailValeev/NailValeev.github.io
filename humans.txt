@@ -1,0 +1,21 @@
+/* TEAM */
+
+	Web designer: Nail Valeev
+	From:Stockholm, Sweden
+
+/* THANKS */
+
+	Contributor, Jekyll boilerplate: Johan Leitet
+	Location: Sweden
+
+	Contributor, Jekyll boilerplate: John Häggerud
+	Location: Sweden
+
+	Contributor, Jekyll boilerplate: Dan A.
+	Location: Sweden		
+
+/* SITE */
+	Last update:2018/11/15
+	Language: English
+	Doctype:HTML5
+	IDE: Visual Studio Code

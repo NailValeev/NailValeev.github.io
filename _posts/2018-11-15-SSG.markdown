@@ -1,0 +1,22 @@
+---
+layout: post
+comments: true
+title:  "SSG. What is it? How to eat?"
+date:   2018-11-15 11:12:52 -0600
+categories: jekyll disqus
+---
+A static site is a collection of plain HTML pages. 
+It is easy to create and edit these in any text editor / HTML editor / IDE, but managing of assets and repeated elements
+is not convenient.
+
+A content management system, `CMS`, i.e. WordPress, stores content in a database and provides administration tools
+for editing and applying of themes - so, management becomes easier. 
+But CMS has cons: performance / security isuues, limited possibilities for page layout customizing. 
+
+A static site generator (`SSG`) is a compromise between using a static site and a CMS. 
+It generates an HTML-only, e.g. static site using user-defined data (such as Markdown files) and templates.
+[Static Site Generators][ssg-info] are suited to build fast websites that can handle a lot of content without relying on servers or databases.  
+In this project I use [Jekyll][jekyll-docs], and it works out-of-the-box like a charm!
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[ssg-info]: https://en.wikipedia.org/wiki/Web_template_system#Static_site_generators

@@ -4,3 +4,24 @@
 
 layout: home
 ---
+<blockquote>
+    <p>“There’s two kinds of people in the world. There’s hammers and there’s nails. You decide which one you wanna be”.</p>
+    <footer>
+        The famous quotation from <cite><a href="https://www.imdb.com/title/tt2381941/quotes"><i>'Focus' movie</i></a>, Warner Bros, 2015</cite>.
+    </footer>
+</blockquote>
+<h1>Are you a hammer or a nail?</h1>
+
+<p>Three years ago I have see the movie [Focus][focus-info] with Margot Robbie and Will Smith. I still remember this short, but important phrase. 
+Of course I immediately thought, am I a hammer or a nail? I thought I’m a “Nägel mit Köpfen”. This is German and translated says “Nail with Head”. 
+It means to do things right, straight and a 100%.</p>
+<p>Why? I am a Nail. My name is Nail. And be sure, I have a head - because I am student at LNU. 
+You can find more information about me [here][me-info]. </p>
+![You-want-this-bunny](images/rabbit.png)
+
+
+[focus-info]: https://www.warnerbros.com/focus
+[me-info]: /about/
+
+
+

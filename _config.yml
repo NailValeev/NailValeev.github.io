@@ -27,6 +27,12 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+disqus:
+  shortname:
+    1dv022exam1
+jekyll:
+  environment:
+    production
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

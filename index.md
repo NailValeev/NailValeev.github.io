@@ -17,10 +17,23 @@ Of course I immediately thought, am I a hammer or a nail? I thought I’m a “N
 It means to do things right, straight and a 100%.   
 Am I sure? No doubts! I am a Nail - my name is Nail. And, definetly, I have a head, because I am student at LNU.
 <br>
-More information about me ? It is [here][me-info]. Alternatively, <cite>follow the White Rabbit</cite>.
+More information about me ? <cite>Follow the White Rabbit</cite>.
+<br>
+{% highlight ruby %}
+{\__/}
+(* .*)
+/ >🍿 U want this?
+
+{\__/}
+(*. *)
+🍿< \   12 euro
+{% endhighlight %}
+
+
 <br>
 ![You-want-this-bunny](images/rabbit.png)
 
+IAlternatively, click [here][me-info]. 
 
 [focus-info]: https://www.warnerbros.com/focus
 [me-info]: /about/

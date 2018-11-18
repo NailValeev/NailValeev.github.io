@@ -4,15 +4,25 @@ title: About me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+<blockquote>
+    <p>“There’s two kinds of people in the world. There’s hammers and there’s nails. You decide which one you wanna be”.</p>
+    <footer>
+        The famous quotation from <cite><a href="https://www.imdb.com/title/tt2381941/quotes"><i>'Focus' movie</i></a>, Warner Bros, 2015</cite>.
+    </footer>
+</blockquote>
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Are you a hammer or a nail?
+===========================
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Three years ago I have see the movie [Focus][focus-info] with Will Smith. I still remember this short, but important phrase. 
+Of course I immediately thought, am I a hammer or a nail? I thought I’m a “Nägel mit Köpfen”. 
+This is German and translates as “Nail with Head”. 
+It means to do things right, straight and a 100%.   
+Am I sure? No doubts! I am a Nail - my name is Nail. And, definetly, I have a head, because I am student at LNU.
+<br>
+More information about me ? <cite>Follow the White Rabbit</cite>
+<br>
+![You-want-this-bunny](/images/rabbit.jpg)
 
+[focus-info]: https://www.warnerbros.com/focus
 
-[jekyll-organization]: https://github.com/jekyll

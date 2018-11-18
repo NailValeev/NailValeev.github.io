@@ -11,6 +11,11 @@
   position: relative;
 }
 
+.site-header-pic {
+  max-width: 50%;
+  float: left;
+}
+
 .site-title {
   @include relative-font-size(1.625);
   font-weight: 300;
@@ -231,6 +236,11 @@
 
 .custom-heading {
   color: $custom-heding-color;
+}
+
+
+.custom-image {
+  max-width: 500px;
 }
 
 

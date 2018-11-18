@@ -22,7 +22,7 @@ Am I sure? No doubts! I am a Nail - my name is Nail. And, definetly, I have a he
 <br>
 More information about me ? <cite>Follow the White Rabbit</cite>
 <br>
-![You-want-this-bunny](/images/rabbit.jpg)
+![You-want-this-bunny](/images/rabbit.jpg){:.custom-image}
 
 [focus-info]: https://www.warnerbros.com/focus
 

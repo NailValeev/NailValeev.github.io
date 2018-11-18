@@ -34,7 +34,7 @@ Why? Rick Rouse, A+ certified computer tech explains in [his viral post][share-i
 Have you read it? Are you agree?
 
 Share if you agree!<br>
-![Share-if-you-agree](/images/share-if.jpg)
+![Share-if-you-agree](/images/share-if.jpg){:.custom-image}
 
 
 [share-info]: https://www.ricksdailytips.com/facebook-bait-posts/

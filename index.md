@@ -4,7 +4,7 @@ layout: home
 ## Who am I
 {: .custom-heading}
 
-![I-like-pizza](/images/pizza-man.png)
+![I-like-pizza](/images/pizza-man.png){:.custom-image}
 
 My name is Nail, I live in Stockholm.
 

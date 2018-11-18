@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  "CSS - pre-processors vs Vanilla JS."
 date:   2018-11-14 11:28:12 -0600
-categories: jekyll disqus
+categories: posts serious
 ---
 Pre-compiling of CSS seems to be very useful, especially nesting and mixins, which are amazing I think. 
 [Nesting][nesting-info] is very useful and allows to define hierarchy selectors, and [mixins][mixins-info] helps to create the code with high cross-browser compatibility which is re-usable throughout a site. 

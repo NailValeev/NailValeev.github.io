@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  "SSG. What is it? How to eat?"
 date:   2018-11-15 11:12:52 -0600
-categories: jekyll disqus
+categories: posts serious
 ---
 A static site is a collection of plain HTML pages. 
 It is easy to create and edit these in any text editor / HTML editor / IDE, but managing of assets and repeated elements

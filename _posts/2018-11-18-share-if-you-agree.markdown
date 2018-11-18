@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  "Share if you agree?"
 date:   2018-11-17 10:02:05 -0600
-categories: jekyll disqus
+categories: posts jokes
 ---
 
 To share or not to share...that is the question.
@@ -14,7 +14,7 @@ There is a sharing option implemented on this site, and you can share blog posts
 
 Without these tags, the Facebook Crawler uses internal heuristics to make a best guess about the title, description, and preview image for your content. Editing this info explicitly with Open Graph tags helps to improve the quality of posts on Facebook.
 
-I have implement sex `og:` tags (`og` for `Open Graph`) in the head.html in my _includes: 
+I have implement sex `og:` tags (`og` for `Open Graph`) in the head.html in my _includes, note that you will see : 
 
 {% highlight html %}
   <meta property="og:locale" content="en_US">
@@ -22,7 +22,7 @@ I have implement sex `og:` tags (`og` for `Open Graph`) in the head.html in my _
   <meta property="og:url" content="{{ site.url }}{{ page.url }}">
   <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
   <meta property="og:site_name" content="{{ site.title }}">
-  <meta property="og:image" content="{{ site.url }}/images/og-image-1.jpg">
+  <meta property="og:image" content="{{ site.url }}/images/og-image.jpg">
 {% endhighlight %}
 
 It is possible to specify custom image for any post to be shared, but IMHO it is little bit redundand in this case.

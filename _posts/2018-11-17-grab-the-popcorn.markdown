@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  "Grab the popcorn!"
 date:   2018-11-17 10:02:05 -0600
-categories: jekyll disqus
+categories: posts jokes
 ---
 
 A blog is nothing without its readers, and blog isn’t really a blog without comments, because a blogging is not just publishing of content, but also the two-way communication.  

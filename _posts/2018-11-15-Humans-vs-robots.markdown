@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  "Humans vs Robots."
 date:   2018-11-15 10:36:07 -0600
-categories: jekyll disqus
+categories: posts serious
 ---
 Sorry, it is just a clickbait, this post about `humans.txt` and `robots.txt` files ;)
 

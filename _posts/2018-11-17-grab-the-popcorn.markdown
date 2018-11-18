@@ -17,7 +17,7 @@ As they say in business, “Once a customer, always a customer”. With blogging
 Feel fre to comment!
 Stay tuned!
 Grab the popcorn! <br>
-![I-just-came-here-to-read-the-comments](/images/popcorn-memes.jpg)
+![I-just-came-here-to-read-the-comments](/images/popcorn-memes.jpg){:.custom-image}
 
 
 [disqus-info]: https://disqus.com/

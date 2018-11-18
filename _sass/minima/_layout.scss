@@ -229,6 +229,9 @@
   @include relative-font-size(1.5);
 }
 
+.custom-heading {
+  color: $custom-heding-color;
+}
 
 
 /**

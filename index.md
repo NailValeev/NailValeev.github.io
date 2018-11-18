@@ -1,41 +1,19 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 ---
-<blockquote>
-    <p>“There’s two kinds of people in the world. There’s hammers and there’s nails. You decide which one you wanna be”.</p>
-    <footer>
-        The famous quotation from <cite><a href="https://www.imdb.com/title/tt2381941/quotes"><i>'Focus' movie</i></a>, Warner Bros, 2015</cite>.
-    </footer>
-</blockquote>
-<h1>Are you a hammer or a nail?</h1>
+## Who am I
+{: .custom-heading}
 
-Three years ago I have see the movie [Focus][focus-info] with Will Smith. I still remember this short, but important phrase. 
-Of course I immediately thought, am I a hammer or a nail? I thought I’m a “Nägel mit Köpfen”. This is German and translated says “Nail with Head”. 
-It means to do things right, straight and a 100%.   
-Am I sure? No doubts! I am a Nail - my name is Nail. And, definetly, I have a head, because I am student at LNU.
+![I-like-pizza](/images/pizza-man.png)
+
+My name is Nail, I live in Stockholm.
+
+I am a Java developer. I like my job but I think it is cool to be a Full-stack developer. That is why I am here.
 <br>
-More information about me ? <cite>Follow the White Rabbit</cite>.
+More information about me ? Read the blog posts below.
 <br>
-{% highlight ruby %}
-{\__/}
-(* .*)
-/ >🍿 U want this?
+Alternatively, click [here][me-info]. 
 
-{\__/}
-(*. *)
-🍿< \   12 euro
-{% endhighlight %}
-
-
-<br>
-![You-want-this-bunny](images/rabbit.png)
-
-IAlternatively, click [here][me-info]. 
-
-[focus-info]: https://www.warnerbros.com/focus
 [me-info]: /about/
 
 

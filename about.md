@@ -11,8 +11,8 @@ permalink: /about/
     </footer>
 </blockquote>
 
-Are you a hammer or a nail?
-===========================
+## Are you a hammer or a nail?
+{: .custom-heading}
 
 Three years ago I have see the movie [Focus][focus-info] with Will Smith. I still remember this short, but important phrase. 
 Of course I immediately thought, am I a hammer or a nail? I thought I’m a “Nägel mit Köpfen”. 
